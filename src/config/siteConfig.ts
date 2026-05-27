@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Fantasy",
 
 	// 站点 URL
-	site_url: "https://stephenjrui.com",
+	site_url: "https://blog.stephenjrui.com",
 
 	// 站点描述
 	description:
